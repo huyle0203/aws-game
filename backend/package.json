@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.716.0",
+    "dotenv": "^16.4.7",
+    "dynamoose": "^4.0.2",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
